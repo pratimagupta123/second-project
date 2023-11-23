@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    padding:50px 100px;
+}
+h1{
+    text-align: center;
+}
+#container{
+    text-align: center;
+    background-color: #0EA293;
+    padding: 30px;
+}
+.input-div{
+    display: inline-block;
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    font-weight: bolder;
+    font-size: large;
+}
